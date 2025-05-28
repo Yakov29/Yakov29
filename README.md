@@ -18,16 +18,7 @@
 ### ⚙️ Мой стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,webpack,git,github,vscode" />
-</p>
-
----
-
-### 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yakov29&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakov29&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,github,vscode" />
 </p>
 
 ---
